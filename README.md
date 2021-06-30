@@ -1,7 +1,5 @@
 # jc-gitUtil
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that jkampich1411 git utils
-
 ## Setup
 
 ```sh
